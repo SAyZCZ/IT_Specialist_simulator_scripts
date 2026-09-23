@@ -12,7 +12,7 @@ IMPORTAN: Always check the game version the code worked for, game is still in ea
 ---
 
 ## 📂 Repository Structure
-
+```
 IT_Specialist_simulator_scripts/ 
 ├── Tasks_source_codes/ 
 │ ├── Helpdesk_call_statistics_task/ 
@@ -20,3 +20,4 @@ IT_Specialist_simulator_scripts/
 │ ├── Task_03/ 
 │ └── To_be_continued/ 
 └── README.md
+```
