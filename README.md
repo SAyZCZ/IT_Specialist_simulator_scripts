@@ -2,6 +2,9 @@
 
 A collection of Python scripts, tools, and automation solutions written for the **IT Specialist Simulator** game.
 
+The game link: 
+https://store.steampowered.com/app/3266090/IT_Specialist_Simulator/
+
 ---
 
 ## 📌 Overview
