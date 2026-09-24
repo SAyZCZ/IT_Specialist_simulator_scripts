@@ -16,8 +16,8 @@ IMPORTANT: Always check the game version the code worked for, game is still in e
 IT_Specialist_simulator_scripts/ 
 ├── Tasks_source_codes/ 
 │ ├── Helpdesk_call_statistics_task/ 
-│ ├── Task_02/ 
-│ ├── Task_03/ 
-│ └── To_be_continued/ 
+│ ├── Office_supplies_budget_calculator/ 
+│ ├── Quick_invoice_calculation/ 
+│ └── The_workday_panel_does_not_start/ 
 └── README.md
 ```
