@@ -21,6 +21,7 @@ IT_Specialist_simulator_scripts/
 │ ├── Helpdesk_call_statistics_task/ 
 │ ├── Office_supplies_budget_calculator/ 
 │ ├── Quick_invoice_calculation/ 
-│ └── The_workday_panel_does_not_start/ 
+│ ├── The_workday_panel_does_not_start/ 
+│ └── Warehouse_stock_calculator
 └── README.md
 ```
